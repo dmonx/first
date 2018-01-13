@@ -1,0 +1,11 @@
+install atom
+install package atom-python-run autocomplete-python python-debugger python-runner git-plus
+setting git config
+      [remote "origin"]
+            url = "https://dmonx:password7@github.com/dmonx/first.git"
+       [branch "master"]
+            remote = "origin"
+
+setting git at cmd from /appdata/atom/git
+              git config user.name "someone"
+              git config user.email "someone@someplace.com"
